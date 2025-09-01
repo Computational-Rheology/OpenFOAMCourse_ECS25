@@ -6,7 +6,7 @@
 
 
 ## 1-Introduction
-![Introduction](./Covers/01_intro.jpg)
+![Introduction](https://github.com/Computational-Rheology/OpenFOAMCourse_ECS25/blob/main/Covers/01_Intro.JPG)
 
 [Video](https://youtu.be/XPClAtVewAU)
 
