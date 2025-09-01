@@ -37,7 +37,7 @@ Installation website: https://www.paraview.org/download/
 
 
 ## 5-OpenFOAM v2506
-![Introduction](https://github.com/Computational-Rheology/OpenFOAMCourse_ECS25/blob/main//Covers/05-OpenFOAM.jpg)
+![Introduction](https://github.com/Computational-Rheology/OpenFOAMCourse_ECS25/blob/main//Covers/05_OpenFOAM.jpg)
 
 [Video](https://youtu.be/3x1gUifncLA)
 
