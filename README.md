@@ -12,7 +12,7 @@
 
 
 ## 2-Windows Subsystem Linux
-![Windows Subsystem Linux](https://github.com/Computational-Rheology/OpenFOAMCourse_ECS25/blob/main//Covers/02-WSL.jpg)
+![Windows Subsystem Linux](https://github.com/Computational-Rheology/OpenFOAMCourse_ECS25/blob/main/Covers/02-WSL.jpg)
 
 [Video](https://youtu.be/gRKmsotZp4Y)
 
@@ -21,7 +21,7 @@ wsl –-install -d Ubuntu-24.04
 ```
 
 ## 3-Visual Studio Code
-![VSCode](https://github.com/Computational-Rheology/OpenFOAMCourse_ECS25/blob/main//Covers/03-vscode.jpg)
+![VSCode](https://github.com/Computational-Rheology/OpenFOAMCourse_ECS25/blob/main/Covers/03-vscode.jpg)
 
 [Video](https://youtu.be/hzr0HRTfKgA)
 
@@ -29,7 +29,7 @@ Installation website: https://code.visualstudio.com/
 
 
 ## 4-Paraview 6.0
-![Introduction](https://github.com/Computational-Rheology/OpenFOAMCourse_ECS25/blob/main/Covers/04-Paraview.jpg)
+![Paraview](https://github.com/Computational-Rheology/OpenFOAMCourse_ECS25/blob/main/Covers/04-Paraview.jpg)
 
 [Video](https://youtu.be/JEJfGAcsZgQ)
 
@@ -37,7 +37,7 @@ Installation website: https://www.paraview.org/download/
 
 
 ## 5-OpenFOAM v2506
-![Introduction](https://github.com/Computational-Rheology/OpenFOAMCourse_ECS25/blob/main//Covers/05_OpenFOAM.jpg)
+![OpenFOAM](https://github.com/Computational-Rheology/OpenFOAMCourse_ECS25/blob/main/Covers/05-OpenFOAM.jpg)
 
 [Video](https://youtu.be/3x1gUifncLA)
 
