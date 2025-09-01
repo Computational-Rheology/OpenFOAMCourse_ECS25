@@ -21,7 +21,7 @@ wsl –-install -d Ubuntu-24.04
 ```
 
 ## 3-Visual Studio Code
-![VSCode](https://github.com/Computational-Rheology/OpenFOAMCourse_ECS25/blob/main/Covers/03-VSCode.JPG)
+![VSCode](./Covers/03-VSCode.JPG)
 
 [Video](https://youtu.be/hzr0HRTfKgA)
 
