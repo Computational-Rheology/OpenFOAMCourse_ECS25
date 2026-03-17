@@ -41,4 +41,4 @@ Installation website: https://www.paraview.org/download/
 
 [Video](https://youtu.be/3x1gUifncLA)
 
-Installation website: https://www.openfoam.com/download/openfoam-installation-on-linux
+Installation website: https://gitlab.com/openfoam/core/openfoam/-/wikis/precompiled/debian
